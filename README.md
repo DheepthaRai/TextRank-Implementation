@@ -12,10 +12,8 @@ TextRank algorithm includes two NLP tasks:
 
    > Keyword extraction task
    > Sentence extraction task
-
-   ---> Keyword Extraction: The aim of keyword extraction algorithm is to automatically identify a set of terms that best describe the given document, and the simplest possible approach to do that is to use a frequency criterion, which unfortunately, leads to poor results. The TextRank keyword extraction algorithm requires no prior training (unsupervised).
-
-   ---> Sentence Extraction: TextRank is very apt for documents involving complete sentences, as it allows for a ranking over text units that are computed recursively based on the information drawn from the entire text.
+   > > Keyword Extraction: The aim of keyword extraction algorithm is to automatically identify a set of terms that best describe the given document, and the simplest possible approach to do that is to use a frequency criterion, which unfortunately, leads to poor results. The TextRank keyword extraction algorithm requires no prior training (unsupervised).
+   > > Sentence Extraction: TextRank is very apt for documents involving complete sentences, as it allows for a ranking over text units that are computed recursively based on the information drawn from the entire text.
 
 **Language of implementation:** Python3
 
