@@ -16,7 +16,7 @@ TextRank algorithm includes two NLP tasks:
    > 
    > Sentence extraction task
    > 
-   > > Sentence Extraction: TextRank is very apt for documents involving complete sentences, as it allows for a ranking over text units that are computed recursively based on the information drawn from the entire text.
+   > > TextRank is very apt for documents involving complete sentences, as it allows for a ranking over text units that are computed recursively based on the information drawn from the entire text.
 
 **Language of implementation:** Python3
 
